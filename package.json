@@ -1,0 +1,22 @@
+{
+  "name": "iohook-rawcode-normalise",
+  "version": "1.0.0",
+  "description": "A rawcode normaliser for iohook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harryshipton/iohook-rc-normalise.git"
+  },
+  "author": "Harry Shipton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harryshipton/iohook-rc-normalise/issues"
+  },
+  "homepage": "https://github.com/harryshipton/iohook-rc-normalise#readme",
+  "dependencies": {
+    "keysym": "github:harryshipton/node-keysym"
+  }
+}
