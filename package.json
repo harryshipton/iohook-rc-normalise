@@ -1,6 +1,6 @@
 {
   "name": "iohook-rawcode-normalise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A rawcode normaliser for iohook",
   "main": "index.js",
   "scripts": {
